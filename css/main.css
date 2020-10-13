@@ -1,0 +1,22 @@
+body {
+  background-color: #EDD1B0;
+  text-align: center;
+}
+
+#text {
+  background-color: #EDD1B0;
+  width: 80%;
+  height: 500px;
+  color: black;
+}
+
+#show {
+  color: black;
+  border: 0px solid red;
+  width: 80%;
+  margin: auto;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: verdana;
+  text-align: left;
+}
